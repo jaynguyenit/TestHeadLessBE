@@ -1,5 +1,1 @@
-{
-  "scripts": {
-    "wpe-build": "next build",
-  }
-}
+
