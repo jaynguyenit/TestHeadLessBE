@@ -2,5 +2,9 @@
   "engines": {
     "node": "16.15.0",
     "packageManager": "npm@8.5.5"
+  },
+  "scripts": {
+    "wpe-build": "next build",
+    "build": "next build"
   }
 }
