@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "17.7.2",
-    "packageManager": "npm@8.5.2"
+    "node": "16.15.0",
+    "packageManager": "npm@8"
   }
 }
