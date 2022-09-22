@@ -4,6 +4,7 @@
     "packageManager": "npm@8.5.5"
   },
   "scripts": {
+    "my-build": "next build",
     "wpe-build": "next build",
     "build": "next build"
   }
