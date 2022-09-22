@@ -6,7 +6,9 @@
   "scripts": {
     "my-build": "next build",
     "wpe-build": "next build",
-    "build": "next build"
+    "build": "next build",
+    "start": "next start",
+    "start-dev": "next dev",
   },
   "dependencies": {
     "next": "^12.3.1"
